@@ -1,0 +1,27 @@
+{
+  "name": "d3.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalcon10028/D3.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalcon10028/D3.js/issues"
+  },
+  "homepage": "https://github.com/dalcon10028/D3.js#readme",
+  "dependencies": {
+    "@types/d3": "^7.0.0",
+    "d3": "^7.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
