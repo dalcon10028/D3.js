@@ -1,0 +1,17 @@
+
+.controller {
+    margin: 20px;
+}
+
+.result {
+    width: 500px;
+    height: 100px;
+    border: thistle 1px solid;
+    padding: 10px;
+}
+
+text {
+    font-family: sans-serif;
+    font-size: 11px;
+    fill: white;
+}

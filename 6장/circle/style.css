@@ -1,0 +1,13 @@
+.container {
+}
+
+.bar{
+    display: inline-block;
+    margin-right: 2px;
+    width: 100px;
+    background-color: indigo;
+    opacity: .5;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
