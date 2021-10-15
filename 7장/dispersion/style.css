@@ -1,0 +1,15 @@
+
+.controller {
+    margin: 20px;
+}
+
+.result {
+    border: thistle 1px solid;
+    padding: 10px;
+}
+
+text {
+    font-family: sans-serif;
+    font-size: 11px;
+    fill: tomato;
+}
